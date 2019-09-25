@@ -6,7 +6,7 @@
     public class Task : Base
     {
         /// <summary>
-        /// Свойство остояния
+        /// Свойство состояния
         /// </summary>
         public string TaskStat { get; set; }
     }
